@@ -2,7 +2,7 @@
 AkCasino est un plugin conçu pour le jeu Nova-Life, faisant apparaître un point bleu affichant un panel disposant de plusieurs boutons. 
 
 ## ⭐ Fonctionnalités
-Le plugin est déjà posé sur la carte du moment que le plugin soit dans le fichier ``Plugin`` directement au terrain 3.
+Le plugin est déjà posé sur la carte du moment que le plugin soit dans le fichier ``Plugin`` directement au terrain 402.
 
 ## 📥 Installation
 1. Téléchargez le fichier `AkCasino.dll` depuis la page des releases de ce dépôt.
