@@ -14,7 +14,7 @@ Le plugin est déjà posé sur la carte du moment que le plugin soit dans le fic
 - [ModKit + AAMenu](<https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest>)
 
 ## ⚖️ Licence
-Vous êtes dans l'interdiction de décompiler le plugin ou le vendre. Vous avez juste le droit de l'utiliser dans votre serveur.
+Le plugin est Open-Source, vous pouvez modifier le code et faire tout ce que vous voulez avec.
 
 ## 📞 Contact
 Pour toute question, problème ou proposition lié au plugin, contactez-moi sur Discord : <@1026094372955115520>
