@@ -14,7 +14,7 @@ Le plugin propose une variété de jeux classiques de casino, chacun avec sa pro
 
 **Jeu de dés (Jeu de dés) :** Choisissez un numéro entre 1 et 6 pour tenter de gagner. * 
 
-**Jackpot :** Un jeu à gros enjeux avec des mises de 100$ et 500$ pour tenter de remporter le pot commun. L'emplacement par défaut du casino est le terrain 402, et il est visible tant que le fichier du plugin se trouve dans le dossier Plugin.
+**Jackpot :** Un jeu à gros enjeux avec des mises de 100$ et 500$ pour tenter de remporter le pot commun. L'emplacement par défaut du casino est le terrain 9, et il est visible tant que le fichier du plugin se trouve dans le dossier Plugin.
 
 ## 📥 Installation
 L'installation d'AkCasino est simple et rapide :
